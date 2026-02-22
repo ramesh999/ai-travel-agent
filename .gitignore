@@ -3,6 +3,7 @@ venv/
 logs/
 AI_TRAVEL_PLANNER_AGENT.egg-info/
 tenv/
+aitravelvenv/
 
 __pycache__/
 *.pyc
